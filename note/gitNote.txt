@@ -1,0 +1,5 @@
+提交的流程：
+先执行git add 目录名/文件名
+或者在当前目录执行git add.（表示所有）
+然后再git commit -m "提交日志"
+最后再git push origin master ----提交到远程库
