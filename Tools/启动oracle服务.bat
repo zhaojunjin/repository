@@ -1,0 +1,4 @@
+lsnrctl start
+net start OracleServiceORCL
+net start OracleOraDb11g_home1TNSListener
+net start OracleDBConsoleorcl
