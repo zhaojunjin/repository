@@ -3,3 +3,7 @@
 或者在当前目录执行git add.（表示所有）
 然后再git commit -m "提交日志"
 最后再git push origin master ----提交到远程库
+git init ----初始化库
+ssh-keygen -t rsa -C "zhaojunjin@yeah.net" ----生成ssh
+git config --global user.name "zhaojunjin@yean.net" ----配置登录名
+git config --global user.email "zhaojunjin@yean.net" ----配置注册邮箱
