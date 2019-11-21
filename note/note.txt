@@ -1,0 +1,191 @@
+junjin.zhao@atoz.com.cn
+FDtf2vMVa8X5wDvP
+950414WJN
+菜单路径:C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+-javaagent:D:\Users\71477\Downloads\jetbrains-agent.jar
+ThisCrackLicenseId-{
+"licenseId":"ThisCrackLicenseId",
+"licenseeName":"zhaojunjin",
+"assigneeName":"",
+"assigneeEmail":"zhaojunjin@yeah.cn",
+"licenseRestriction":"For This Crack, Only Test! Please support genuine!!!",
+"checkConcurrentUse":false,
+"products":[
+{"code":"II","paidUpTo":"2099-12-31"},
+{"code":"DM","paidUpTo":"2099-12-31"},
+{"code":"AC","paidUpTo":"2099-12-31"},
+{"code":"RS0","paidUpTo":"2099-12-31"},
+{"code":"WS","paidUpTo":"2099-12-31"},
+{"code":"DPN","paidUpTo":"2099-12-31"},
+{"code":"RC","paidUpTo":"2099-12-31"},
+{"code":"PS","paidUpTo":"2099-12-31"},
+{"code":"DC","paidUpTo":"2099-12-31"},
+{"code":"RM","paidUpTo":"2099-12-31"},
+{"code":"CL","paidUpTo":"2099-12-31"},
+{"code":"PC","paidUpTo":"2099-12-31"}
+],
+"hash":"2911276/0",
+"gracePeriodDays":7,
+"autoProlongated":false}
+密码：root
+svn：
+https://10.10.51.121:8443/svn/CIHS
+zhaojunjin
+cihs
+vpn
+supp@093
+http://cmos.comac.cc/
+P@ss.123
+
+wget https://www.python.org/ftp/python/3.6.0/Python-3.6.0a1.tar.xz
+
+impdp system/root dumpfile=20181108.dmp directory=DATA_PUMP_DIR REMAP_SCHEMA=PT633:PT7
+
+impdp scott/tiger DIRECTORY=dpdata1 DUMPFILE=expdp.dmp SCHEMAS=scott;
+
+http://www.wujieni.cn/wp-login.php?action=lostpassword
+
+-Xmx512M -Xms512M  -XX:MaxPermSize=256M -Xss1024K
+
+win+r打开cmd，输入指令：expdp 用户名/密码 directory=dumpdir  dumpfile=[自定义文件名.dmp]  logfile=[日志文件名.log]【如果你在本地连接服务器DB，那么导出的文件将在服务地目录下，而不是本地计算机目录下！】
+导入方式二：win+r打开cmd，输入指令：impdb 用户名/密码 directory=dumpdir dumpfile=[dmp文件名.dmp];
+
+导出方式一：win+r打开cmd，输入指令：exp [用户名]/[密码]@[服务器地址/数据库SID（本地数据库直接写SID）] file=[导出文件存放路径.dmp] log=[日志文件存放路径.log] (对应的pl/sql图形化操作见网络)
+导入方式一：win+r打开cmd，输入指令：imp [用户名]/[密码]@[服务器地址/数据库SID（本地数据库直接写SID）] fromuser=[导出该DMP用户名（错了会提示，所以不用担心）] touser=[用户名] file=[dmp文件存放路径.dmp] log=[日志文件存放路径.log]
+
+(1)新建->变量名"JAVA_HOME"，变量值"C:\Java\jdk1.8.0_05"（即JDK的安装路径）
+(2)编辑->变量名"Path"，在原变量值的最后面加上“;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin”
+(3)新建->变量名“CLASSPATH”,变量值“.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar”
+
+
+MAVEN_HOME ， maven路径
+再在Path变量中加上:%MAVEN_HOME%\bin;
+
+startup
+“变量名”栏填写：CATALINA_HOME
+“变量值”栏填写：D:\Program Files\Tomcat
+redis-server.exe
+set redisdemo
+get redisdemo
+把redis路径配置到系统变量的path值
+
+Tomact：
+内存配置：-Xmx512M -Xms512M  -XX:MaxPermSize=256M -Xss4m
+
+-Xms512m  
+-Xmx2048m  
+-XX:PermSize=64m  
+-XX:MaxPermSize=512m 
+
+Windows->Preferences->Validation->Disabled All
+Windows->Preferences->spelling->全部取消
+Windows->Preferences->Worksapce->Text file encoding->UTF-8
+%maven路径%bin
+setting文件配置：
+<mirrors>
+     <mirror>
+      <id>alimaven</id>
+      <mirrorOf>central</mirrorOf> 
+      <name>aliyun-maven</name>
+      <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+    </mirror>
+    <mirror>
+        <id>jboss-public-repository-group</id>
+        <mirrorOf>central</mirrorOf>
+        <name>JBoss Public Repository Group</name>
+        <url>http://repository.jboss.org/nexus/content/groups/public</url>
+    </mirror>
+    <mirror>
+        <id>ibiblio</id>
+        <mirrorOf>central</mirrorOf>
+        <name>Human Readable Name for this Mirror.</name>
+        <url>http://mirrors.ibiblio.org/pub/mirrors/maven2/</url>
+    </mirror>
+    <mirror>
+        <id>central</id>
+        <name>Maven Repository Switchboard</name>
+        <url>http://repo1.maven.org/maven2/</url>
+        <mirrorOf>central</mirrorOf>
+    </mirror>
+    <mirror>
+        <id>repo2</id>
+        <mirrorOf>central</mirrorOf>
+        <name>Human Readable Name for this Mirror.</name>
+        <url>http://repo2.maven.org/maven2/</url>
+    </mirror>
+</mirrors>
+打开PLSQL Developer，选择Tools -> perference -> Connection，配置其中的Oracle Home和OCI Library项
+
+Oracle Home：E:\app\Administrator\product\instantclient_11_2
+OCI Library：E:\app\Administrator\product\instantclient_11_2\oci.dll
+
+右击"我的电脑" - "属性" - "高级" - "环境变量" - "系统环境变量":
+1>.选择"Path" - 点击"编辑", 把 "E:\app\Administrator\product\instantclient_11_2;" 加入;
+2>.点击"新建", 变量名设置为"TNS_ADMIN", 变量值设置为"E:\app\Administrator\product\instantclient_11_2;", 点击"确定";
+3>.点击"新建", 变量名设置为"NLS_LANG", 变量值设置为"SIMPLIFIED CHINESE_CHINA.ZHS16GBK", 点击"确定";
+
+-startup
+plugins/org.eclipse.equinox.launcher_1.3.100.v20150511-1540.jar
+--launcher.library
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.300.v20150602-1417
+-product
+org.eclipse.epp.package.jee.product
+--launcher.defaultAction
+openFile
+--launcher.XXMaxPermSize
+256M
+-showsplash
+org.eclipse.platform
+--launcher.XXMaxPermSize
+1024m
+--launcher.defaultAction
+openFile
+--launcher.appendVmargs
+-vmargs
+-Dosgi.requiredJavaVersion=1.7
+-Xms512m
+-Xmx1024m
+
+同一个页面使用ajax，要将请求设置为同步，添加参数async为false;
+
+1、切换环境变量，将JAVA_HOME切换成指定版本JDK的安装目录(PATH/CLASSPATH 引用JAVA_HOME);
+2、将需要使用的版本安装目录下的java.exe、 javaw.exe替换 (C:WindowsSystem32)、(C:WindowsSysWOW64)、(C:ProgramDataOracleJavajavapath)这三个路径下对应的java.exe、 javaw.exe
+3、在地址栏输入regedit.exe进入注册表,按照以下顺序修改:
+将HKEY_LOCAL_MACHINE -> SOFTWARE -> JavaSoft ->Java Development Kit
+HKEY_LOCAL_MACHINE -> SOFTWARE -> JavaSoft ->Java Runtime Environment
+这两个路径下的CurrentVersion修改成对应的版本(以修改成1.8为例，则写1.8)
+
+房门密码：756489
+github：
+zhaojunjin@yeah.net
+950216zjj
+知乎：
+18720061411
+950216Zjj
+Oracle：
+zhaojunjin@yeah.net
+950216Zjj
+谷歌：
+jokinzhao@gmail.com
+950216Zjj
+手机服务密码：
+idea：
+名字：zhaojunjin
+姓：z
+用户名：zhaojunjin
+密码：950216Zjj
+git:
+zhaojunjin@yeah.net
+950216Zjj
+c/Users/71477/.ssh/id_rsa 
+公司OA：
+    http://oa.atoz-soft.com:84/OAapp/WebObjects/OAapp.woa
+     junjin.zhao
+    950216zjj
+公司邮箱：
+    https://mail.atoz.com.cn/
+    junjin.zhao
+-<R_kmWg<4qJ
+ALTER USER 'root'@'localhost' IDENTIFIED BY '新密码';
+
+
